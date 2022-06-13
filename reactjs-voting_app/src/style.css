@@ -1,0 +1,19 @@
+
+
+
+.cards{
+  
+    background-image: url(/images/bg2.png) ;
+}
+
+
+
+.logo {
+  height: 10px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 30px;
+}
+
+.site-layout .site-layout-background {
+  background: rgb(186, 234, 195);
+}
